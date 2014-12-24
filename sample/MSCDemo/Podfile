@@ -1,0 +1,7 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+
+target 'MSCDemo_UI' do
+pod 'Amr2Wav', :git => 'https://github.com/summerblue/Amr2Wav.git'
+end
+

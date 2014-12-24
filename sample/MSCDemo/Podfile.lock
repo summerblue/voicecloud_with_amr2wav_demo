@@ -1,0 +1,19 @@
+PODS:
+  - Amr2Wav (0.0.6)
+
+DEPENDENCIES:
+  - Amr2Wav (from `https://github.com/summerblue/Amr2Wav.git`)
+
+EXTERNAL SOURCES:
+  Amr2Wav:
+    :git: https://github.com/summerblue/Amr2Wav.git
+
+CHECKOUT OPTIONS:
+  Amr2Wav:
+    :commit: 558efd779fc747cac51b2903c4fd208b5c750873
+    :git: https://github.com/summerblue/Amr2Wav.git
+
+SPEC CHECKSUMS:
+  Amr2Wav: 1637fe85ccaf6c7c10e29a2282d335622e29559d
+
+COCOAPODS: 0.35.0
