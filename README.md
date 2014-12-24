@@ -4,6 +4,17 @@
 
 因为科大讯飞 IOS SDK 只支持 `PCM或者WAV格式的音频` 的识别, 所以使用了 [Amr2Wav](https://github.com/summerblue/Amr2Wav) 项目把已有的 amr 文件转为 wav 文件, 再提交给科大讯飞服务器转换.
 
+## 使用
+
+目录 `sample/MSCDemo` 下
+
+```
+pod install
+```
+
+然后运行 `MSCDemo_UI.xcworkspace`.
+
 ## 注意
 
 最新版的 sdk , 请到官网下载 : http://open.voicecloud.cn/index.php/services/voicebase?type=tts&tab_index=1 
+
